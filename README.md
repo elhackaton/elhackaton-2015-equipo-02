@@ -6,25 +6,26 @@ Componentes del Equipo
 
 (Máximo 4 integrantes por grupo)
 
-+ Nombre del integrante #1 (Desarrollo y Sistemas)
-+ Nombre del integrante #4 (Sistemas)
-+ Nombre del integrante #2 (Diseñador)
-+ Nombre del integrante #3 (Maquetadora)
++ Miguel Ángel López Vicente #1 (Desarrollo)
++ Cristina Ortega de Casas (Diseño)
++ Daniel Cascales Granados (Contenido)
++ Rafael Aybar Segura (Contenido)
 
 Descripción
 -------------
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
 
 Estado del desarrollo actual
 ----------------------------
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Grifo es una Aplicación Web cuya función consiste en administrar la cantidad de agua consumida por la institución que lo instale.
+
+Consiste en un dispositivo que se coloca en los grifos a controlar, a través de la que podemos gestionar el gasto de agua que va a implicar para la institución, además de intentar de una forma divertida, de concienciar a los niños de la importancia de ahorrar agua.
 
 Especificaciones Técnicas
 --------------------------
-+ Lenguajes de programación utilizados
-+ Sistema de bases de datos
-+ Etc...
+- Aplicación Arduino programada en C++ que hace uso de las librerías Neopixel para el control de los LEDS.
+- Aplicación web utilziando un sistema JSF con Primefaces y Mysql
 
 Licencia
 ---------
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+MIT
